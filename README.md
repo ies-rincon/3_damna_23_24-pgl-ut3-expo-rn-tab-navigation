@@ -1,6 +1,6 @@
 # 3DAMNA - PGL > UT3 > Tab Navigation App
 
-Este proyecto de React Native se centra en la implementación de la navegación por pestañas utilizando el componente `createMaterialTopTabNavigator` de la biblioteca `@react-navigation/material-top-tabs`. La navegación por pestañas es una forma común de organizar y presentar múltiples vistas o secciones en una aplicación.
+Este proyecto de Expo se centra en la implementación de la navegación por pestañas utilizando el componente `createMaterialTopTabNavigator` de la biblioteca `@react-navigation/material-top-tabs`. La navegación por pestañas es una forma común de organizar y presentar múltiples vistas o secciones en una aplicación.
 
 ## @react-navigation/material-top-tabs
 
